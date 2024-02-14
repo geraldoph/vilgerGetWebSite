@@ -1,6 +1,6 @@
 # vilgerGetWebSite
 
-The "Website Downloader" is a simple C++ application that facilitates the downloading of website content for offline browsing. Users can input a start page URL and choose the desired download level to retrieve HTML, images, CSS, and other assets. The application constructs a corresponding wget command, displays it for user reference, and executes the command using the system function.
+The vilgerGetWebSite is a "Website Downloader". A simple C++ application that facilitates the downloading of website content for offline browsing. Users can input a start page URL and choose the desired download level to retrieve HTML, images, CSS, and other assets. The application constructs a corresponding wget command, displays it for user reference, and executes the command using the system function.
 
 # Key Features:
 
